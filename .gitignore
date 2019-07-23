@@ -2,7 +2,9 @@
 
 # dependencies
 /node_modules
-/config
+
+# database setup
+/config/keys.js
 
 # profiling files
 package-lock.json
